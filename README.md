@@ -1,4 +1,4 @@
 #  MovingView
 
-![설명](/MovingView/README/movingViewGit.gif)
+![설명](MovingView/README/movingViewGit.gif)
 
