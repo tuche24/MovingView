@@ -1,7 +1,9 @@
 #  MovingView
 ### 사용자의 손가락 드래그를 통해 뷰의 위치를 쉽게 변경할 수 있는 기능을 제공하는 Swift 프로젝트입니다.
 
-![움직이는뷰 예시](MovingView/README/movingViewGif.gif)
+<p align="center">
+  <img src="MovingView/README/movingViewGif.gif" alt="움직이는뷰 예시">
+</p>
 
  
 ## 주요 기능 및 사용된 기능
