@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5AA672442A95B71D00040428 /* movingViewGif.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5AA672432A95B71D00040428 /* movingViewGif.gif */; };
 		730C0BCF2A283AF7009C7889 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 730C0BCE2A283AF7009C7889 /* AppDelegate.swift */; };
 		730C0BD12A283AF7009C7889 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 730C0BD02A283AF7009C7889 /* SceneDelegate.swift */; };
 		730C0BD32A283AF7009C7889 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 730C0BD22A283AF7009C7889 /* ViewController.swift */; };
@@ -17,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5AA672432A95B71D00040428 /* movingViewGif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = movingViewGif.gif; sourceTree = "<group>"; };
+		5AA672452A95B73F00040428 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		730C0BCB2A283AF7009C7889 /* MovingView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MovingView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		730C0BCE2A283AF7009C7889 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		730C0BD02A283AF7009C7889 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -39,9 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5AA672422A95B6FC00040428 /* README */ = {
+			isa = PBXGroup;
+			children = (
+				5AA672432A95B71D00040428 /* movingViewGif.gif */,
+			);
+			path = README;
+			sourceTree = "<group>";
+		};
 		730C0BC22A283AF7009C7889 = {
 			isa = PBXGroup;
 			children = (
+				5AA672452A95B73F00040428 /* README.md */,
 				730C0BCD2A283AF7009C7889 /* MovingView */,
 				730C0BCC2A283AF7009C7889 /* Products */,
 			);
@@ -58,6 +70,7 @@
 		730C0BCD2A283AF7009C7889 /* MovingView */ = {
 			isa = PBXGroup;
 			children = (
+				5AA672422A95B6FC00040428 /* README */,
 				730C0BCE2A283AF7009C7889 /* AppDelegate.swift */,
 				730C0BD02A283AF7009C7889 /* SceneDelegate.swift */,
 				730C0BD22A283AF7009C7889 /* ViewController.swift */,
@@ -130,6 +143,7 @@
 			files = (
 				730C0BDB2A283AF8009C7889 /* LaunchScreen.storyboard in Resources */,
 				730C0BD82A283AF8009C7889 /* Assets.xcassets in Resources */,
+				5AA672442A95B71D00040428 /* movingViewGif.gif in Resources */,
 				730C0BD62A283AF7009C7889 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
